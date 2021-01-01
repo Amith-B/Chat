@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Chat",
-    "slug": "Chat",
+    "slug": "chat_and_call",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,6 +21,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "horizontal user list"
   }
 }
